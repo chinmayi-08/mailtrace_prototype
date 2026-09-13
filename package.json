@@ -1,0 +1,11 @@
+{
+  "name": "mailtrace-sih26106",
+  "version": "2.0.0",
+  "private": true,
+  "description": "MailTrace — SIH26106 AI-Powered Email Threat Detection, GeoLocation and Forensic Intelligence Platform prototype",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": { "node": ">=18" }
+}

@@ -1,0 +1,21 @@
+From: Microsoft Security <security@micros0ft-support.com>
+To: analyst@example.com
+Reply-To: account-review@secure-m365-alerts.com
+Return-Path: <bounce@micros0ft-support.com>
+Subject: URGENT: Your Microsoft 365 account will be suspended
+Date: Tue, 09 Sep 2026 13:10:00 +0000
+Message-ID: <demo-phish-26106@mailtrace.local>
+Received: from mail.secure-m365-alerts.com (203.0.113.42) by mx.example.com;
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=micros0ft-support.com; dkim=fail header.d=micros0ft-support.com; dmarc=fail header.from=micros0ft-support.com
+Content-Type: text/plain
+
+Dear customer,
+
+URGENT: Your account will be suspended within 24 hours. Verify your password immediately at https://secure-m365-alerts.com/login to avoid losing access.
+
+Failure to complete verification will result in permanent account closure.
+
+Regards,
+Microsoft Security Team
+
+[Attachment: Account_Verification.pdf | application/pdf | 18 KB]

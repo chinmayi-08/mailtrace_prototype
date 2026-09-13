@@ -1,0 +1,16 @@
+From: Campus Library <library@example.edu>
+To: analyst@example.com
+Reply-To: library@example.edu
+Return-Path: <library@example.edu>
+Subject: Library book renewal confirmation
+Date: Tue, 09 Sep 2026 09:15:00 +0530
+Message-ID: <demo-safe-26106@example.edu>
+Authentication-Results: mx.example.edu; spf=pass smtp.mailfrom=example.edu; dkim=pass header.d=example.edu; dmarc=pass header.from=example.edu
+Content-Type: text/plain
+
+Hello,
+
+Your library book has been renewed successfully. The new due date is 30 September 2026.
+
+Thank you,
+Campus Library

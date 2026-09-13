@@ -1,0 +1,11 @@
+From: M365 Security <notice@micros0ft-support.com>
+To: employee3@example.com
+Reply-To: verify@secure-m365-alerts.com
+Subject: URGENT account validation
+Date: Wed, 10 Sep 2026 11:18:00 +0000
+Message-ID: <demo-campaign-3@mailtrace.local>
+Received: from relay.secure-m365-alerts.com (198.51.100.24) by mx.example.com;
+Authentication-Results: mx.example.com; spf=fail; dkim=pass; dmarc=fail
+Content-Type: text/plain
+
+URGENT. Verify your account at https://secure-m365-alerts.com/verify now.

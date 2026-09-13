@@ -1,0 +1,13 @@
+From: Microsoft Support <support@micros0ft-support.com>
+To: employee2@example.com
+Reply-To: verify@secure-m365-alerts.com
+Subject: Action required: Microsoft 365 verification
+Date: Wed, 10 Sep 2026 11:04:00 +0000
+Message-ID: <demo-campaign-2@mailtrace.local>
+Received: from mx.secure-m365-alerts.com (203.0.113.42) by mx.example.com;
+Authentication-Results: mx.example.com; spf=fail; dkim=fail; dmarc=fail
+Content-Type: text/plain
+
+Your account requires immediate verification.
+
+Open https://secure-m365-alerts.com/verify immediately to avoid service interruption.
